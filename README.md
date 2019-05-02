@@ -1,4 +1,4 @@
-# Android-FilterPhoto
+# Filter Photo
 
 Aplikasi yang digunakan untuk mempercantik dan memperbagus foto sehingga terlihat menarik dan indah. Bisa juga digunakan untuk para
 developer untuk mengcrop foto sebelum diupload ke server
@@ -11,5 +11,5 @@ developer untuk mengcrop foto sebelum diupload ke server
 
 # Tampilan Aplikasi
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33746018/57055855-61b4ab00-6cc8-11e9-835c-651be4d2521e.jpg" align="middle" width="350" height="550" />
+  <img src="https://user-images.githubusercontent.com/33746018/57055880-9a548480-6cc8-11e9-822e-592aa92536a1.jpg" align="middle" width="350" height="550" />
 </p>
